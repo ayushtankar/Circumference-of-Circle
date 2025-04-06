@@ -17,5 +17,6 @@ public class funcCircumference {
         radius = sc.nextInt();
 
         circumferenceCircle(radius);
+        sc.close();
     }
 }
